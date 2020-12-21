@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Source/UGUISolution/Assets/Scenes/4.RotationDiagram.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
